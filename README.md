@@ -14,6 +14,8 @@ A quiet correspondence puzzle set aboard a Deep Sky Survey receiving station. Re
 
 - 紫白色办公桌面，可拖动、缩放和堆叠应用窗口。
 - 信号分析、词典、邮件和笔记共同构成解谜过程。
+- 抽屉式键盘；实体键盘支持字母和数字，Glyph 字符通过屏幕键盘输入。
+- 人物回复通过邮件发送，逐级帮助位于设置。
 - 中英文界面、本地存档，以及可导出的 PNG 纪念图。
 - 推荐使用电脑；手机建议横屏，保持相同的桌面交互方式。
 
