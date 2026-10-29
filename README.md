@@ -2,7 +2,7 @@
 
 **Across the dark, someone is listening.**
 
-A quiet correspondence puzzle set at a Deep Sky Survey receiving station in 2147. Humanity is reaching further into space. On your first shift, a repeating signal arrives. Read its pictures, mark unfamiliar symbols, and find the words to write back.
+A quiet correspondence puzzle set at a Deep Sky Survey receiving station in 2147. You and your colleague Ender are studying a repeating signal. Read its pictures, annotate unfamiliar symbols, and build the mapping needed for humanity's first reply.
 
 [Play Glyphids](https://glyphids.ender-wiggin.com)
 
@@ -10,17 +10,17 @@ A quiet correspondence puzzle set at a Deep Sky Survey receiving station in 2147
 
 ## 游戏
 
-2147 年，人类正在走向更远的太空。你在深空巡天接收站值班的第一天，收到了一段重复信号。看图、标注字符、拼出单词，然后写一封回信。
+2147 年，你和同事 Ender 在深空巡天接收站收到了一段重复信号。从图中的八个数字开始，标注字符、辨认图像，整理出人类第一次回应所需的映射。
 
 - Deep Sky Survey 品牌桌面，原创机构标志与 slogan；可拖动、缩放和堆叠应用窗口。
 - 数据分析器（Data Analyzer）采用白蓝配色，Scan 采用紫色；应用使用 SETI v2 图标。
-- 从简单标注开始，随 Ender 的邮件逐步学习图像、词长和上下文之间的关系。
+- 标注会自动同步给 Ender；阅读来信，逐步接收更清晰的图像与新信号。
 - SeNews 太空探索日报配有原创概念插画；新闻随时间与进度安静更新，报道多个太空机构的探索，描绘这个寻找外星邻居的时代。
 - 信号分析、词典、邮件和笔记共同构成解谜过程；图中的数字标签也可以独立破译，破译表实时汇总当前有效标注，支持修改、撤销、重做与刷新恢复。
-- 词典提供数学与分子式参考；计算器支持精确的双向进制转换。
-- 邮件、监测备注和记事本支持文字与 Glyph 混排；私人备注保留在记事本。
+- 词典使用分类 Tab，并覆盖主线中的每个单词；计算器支持精确的双向进制转换。星图软件提供常见星座的图形、英文名称和介绍。
+- 正确标注会显示对应中文译文；记事本支持文字与 Glyph 混排。
 - 抽屉式键盘；实体键盘支持字母和数字，Glyph 字符通过屏幕键盘输入。
-- 人物回复通过邮件发送，逐级帮助位于设置。
+- Ender 的邮件给出观察方向，卡关时会有新线索。整理好映射后，通过独立的信号发射器完成第一次通信。
 - 中英文界面、本地存档，以及可导出的 PNG 纪念图。
 - 推荐使用电脑；手机建议横屏，保持相同的桌面交互方式。
 
