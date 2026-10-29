@@ -1,4 +1,4 @@
-# Glyphids · We Hear You
+# Glypyids
 
 **Across the dark, someone is listening.**
 
@@ -13,7 +13,9 @@ A quiet correspondence puzzle set aboard a Deep Sky Survey receiving station. Re
 在深空巡天的接收站里，读懂一种陌生的语言，和遥远的奈里通信。
 
 - 紫白色办公桌面，可拖动、缩放和堆叠应用窗口。
-- 信号分析、词典、邮件和笔记共同构成解谜过程。
+- 信号分析、词典、邮件和笔记共同构成解谜过程；图中的数字标签也可以独立破译，破译表集中保存观察记录。
+- 词典提供数学与分子式参考；计算器支持精确的双向进制转换。
+- 邮件、监测备注和记事本支持文字与 Glyph 混排；私人备注保留在记事本。
 - 抽屉式键盘；实体键盘支持字母和数字，Glyph 字符通过屏幕键盘输入。
 - 人物回复通过邮件发送，逐级帮助位于设置。
 - 中英文界面、本地存档，以及可导出的 PNG 纪念图。
