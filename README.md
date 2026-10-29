@@ -2,7 +2,7 @@
 
 **Across the dark, someone is listening.**
 
-A quiet correspondence puzzle set aboard a Deep Sky Survey receiving station. Read an unfamiliar language, compare signals, and find a voice on the other side of the stars.
+A quiet correspondence puzzle set at a Deep Sky Survey receiving station in 2147. Humanity is reaching further into space. On your first shift, a repeating signal arrives. Read its pictures, mark unfamiliar symbols, and find the words to write back.
 
 [Play Glyphids](https://glyphids.ender-wiggin.com)
 
@@ -10,9 +10,11 @@ A quiet correspondence puzzle set aboard a Deep Sky Survey receiving station. Re
 
 ## 游戏
 
-在深空巡天的接收站里，读懂一种陌生的语言，和遥远的奈里通信。
+2147 年，人类正在走向更远的太空。你在深空巡天接收站值班的第一天，收到了一段重复信号。看图、标注字符、拼出单词，然后写一封回信。
 
 - 紫白色办公桌面，可拖动、缩放和堆叠应用窗口。
+- 从简单标注开始，随 Ender 的邮件逐步学习图像、词长和上下文之间的关系。
+- SeNews 太空探索日报配有原创概念插画；新闻随时间与进度安静更新，描绘这个寻找外星邻居的时代。
 - 信号分析、词典、邮件和笔记共同构成解谜过程；图中的数字标签也可以独立破译，破译表实时汇总当前有效标注，支持修改、撤销、重做与刷新恢复。
 - 词典提供数学与分子式参考；计算器支持精确的双向进制转换。
 - 邮件、监测备注和记事本支持文字与 Glyph 混排；私人备注保留在记事本。
