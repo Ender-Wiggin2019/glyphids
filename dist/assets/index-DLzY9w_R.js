@@ -1,4 +1,4 @@
-import{r as d,u as Ue,j as r,T as N,c as Me}from"./index-DIqy0PfQ.js";import{B as A,t as De,p as J}from"./contracts-BMDe-tTj.js";const Pe="Original authored bilingual content for We Hear You; no external dictionary text.",He=String.raw`
+import{r as d,u as Ue,j as r,T as N,c as Me}from"./index--Fs88Hqu.js";import{B as A,t as De,p as J}from"./contracts-BpiuPoii.js";const Pe="Original authored bilingual content for We Hear You; no external dictionary text.",He=String.raw`
 ABACUS|算盘；用珠子表示数量的计算工具|a counting frame whose beads represent quantities|noun|mathematics|The brass abacus stayed beside the calculator during the lesson.
 ACOUSTIC PANEL|吸音板；减少室内回声的板材|a panel designed to absorb reflected sound|noun|materials|The acoustic panel softened the control room echo.
 ADAPTER|转接头；连接不同接口的部件|a fitting that joins incompatible connectors|noun|tools|The adapter joined the old cable to the new receiver.
