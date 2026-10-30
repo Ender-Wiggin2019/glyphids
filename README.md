@@ -22,7 +22,7 @@ A quiet correspondence puzzle set at a Deep Sky Survey receiving station in 2147
 - 抽屉式键盘；实体键盘支持字母和数字，Glyph 字符通过屏幕键盘输入。
 - Ender 的邮件给出观察方向，卡关时会有新线索。整理好映射后，通过独立的信号发射器完成第一次通信。
 - 中英文界面、本地存档，以及可导出的 PNG 纪念图。
-- 推荐使用电脑；手机建议横屏，保持相同的桌面交互方式。
+- 支持电脑、手机横屏与竖屏，保持相同的桌面交互方式。
 
 存档保存在当前浏览器中。换设备或清理浏览器数据前，请在设置中导出存档。
 
@@ -51,7 +51,7 @@ Open <http://localhost:8080>. Browser storage is specific to each origin, so a l
 
 The published site is hosted on Cloudflare Workers Static Assets at **https://glyphids.ender-wiggin.com**.
 
-Subsequent releases should upload the updated `dist` using the development project's Wrangler configuration, which includes the `glyphids.ender-wiggin.com` custom-domain binding. Preserve that binding when deploying. GitHub is the release archive; pushing a commit alone does not automatically publish a new Cloudflare version.
+Subsequent releases should upload the updated `dist` using the development project's Wrangler configuration, which includes the `glyphids.ender-wiggin.com` custom-domain binding. Preserve that binding when deploying. GitHub is the release archive; pushing a commit alone does not automatically publish a new Cloudflare version. Retain the hashed JavaScript and CSS from earlier releases so open tabs can still load their applications; the development project provides `prepare:release` for this step.
 
 ## Support
 
