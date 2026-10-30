@@ -1,0 +1,1 @@
+let o=0;function a(){o+=1;const t=globalThis.crypto?.randomUUID;return t?t.call(globalThis.crypto):`tool:${Date.now().toString(36)}:${o.toString(36)}`}function e(t,n){return{id:a(),origin:"user",payload:{domain:t,value:n},type:"PATCH_DOMAIN"}}function i(t,n,r){return t==="en"?n:r}export{e as p,i as t};

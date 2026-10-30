@@ -10,7 +10,7 @@ A short solo puzzle game inspired by SETI. At a Deep Sky Survey station in 2147,
 
 About **one hour**, in **English or Chinese**. No SETI experience needed.
 
-- Work inside a simulated desktop with mail, a data analyzer, dictionary, calculator, star chart, and notes.
+- Work inside a simulated desktop with mail, a data analyzer, dictionary, calculator, star chart, encyclopedia, and notes.
 - Follow the clues at your own pace, with optional hints and local saves.
 - Play on desktop or mobile, then keep an image of your first contact.
 
